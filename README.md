@@ -1,14 +1,20 @@
 # Georgia Tech Bootcamp 2020 - Graduation Speech
 
+<div align="center">
+<img src="./connie-tran-grad.png" alt="Connie Tran, graduation speaker" width="60%">
+</div>
+
+</br>
+
 This is a speech I wrote for the Georgia Tech August 2020 graduating class in Full-Stack Web Development.
 
 These were the "notes" I referred to as I gave my speech, so some of the writing has been modified as such.
 
 Thank you to everyone who made this possible. And congratulations to this special class of software developers. I hope you look back on this chapter with pride. 
 
-A recording of our graduation ceremony can be found here: [Georgia Tech Web Development August 2020 Graduation](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d6ef5535-e688-45bf-aaf1-ac1601125345)
+A recording of our graduation ceremony can be found here: [Georgia Tech Web Development August 2020 Graduation](https://zoom.us/rec/play/6Zx_cuyg-jw3HIKUsASDBKAqW9TvJvms0nVIrKIEy0fkUSFXMFTyNbAaZuVimZt1bYEYB8cgBj32D3Y7?continueMode=true&_x_zm_rtaid=nwoyVmQQTVaAc19HRVitmg.1597772582136.11f0b5cf4b530f0a754dc9038fff0c7d&_x_zm_rhtaid=846)
 
-### Speech
+## Speech
 
 First, I am honored and thankful to be able to speak on such a special day. I’ve got some notes here. 
 
